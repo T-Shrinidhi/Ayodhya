@@ -1,0 +1,63 @@
+*{
+    background-color: rgb(235, 202, 246);
+}
+.kittu{
+    float: right;
+}
+
+.red{
+    color: red;
+}
+.rainbow{
+    color:rgb(91, 23, 228);
+}
+.button{
+    background-color:rgb(144, 9, 99); /* Green background */
+    border: 2px;
+    color: white; /* White text */
+    padding: 15px 32px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px; 
+    align-content: right;
+
+}
+h2{
+    color:rgb(41, 111, 7);
+    text-decoration:underline;
+    font-size: 2rem;
+}
+.h2{
+    color: rgb(56, 101, 183);
+    text-decoration:underline;
+}
+h1{
+    color: rgb(144, 9, 99);
+    text-align: center;
+    font-size: 2.5rem;
+    text-decoration-line:overline;
+    text-decoration-line:underline;
+}
+#piya{
+    float:left;
+    margin:10px;
+
+}
+.sony{
+    font-size:x-large;
+    padding: 5px;
+}
+#kitta{
+    float:right;
+    margin: 10px;
+}
+#abc{
+    float: left;
+    margin: 10px;
+    padding: 18px;
+}
+ 

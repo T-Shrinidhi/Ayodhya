@@ -1,0 +1,59 @@
+*{
+    background-image: url("https://i.pinimg.com/564x/ce/8e/68/ce8e680c022e695aa2102234aeecc70b.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+   
+}
+h1{
+    color: burlywood;
+    text-align: center;
+}
+.img
+{
+    float: right;
+    padding: 15px;
+
+}
+.p{
+    font-size: 20px;
+    font-style:normal;
+    font-family: sans-serif;
+    text-align: left;
+    color: azure;
+    padding: 15px;
+
+}
+#shri{
+    float: left;
+    padding: 15px;
+}
+
+#kittu{
+    float: right;
+    padding: 10px;
+    margin-bottom: 25px;
+}
+.kittu1{
+    font-size: 20px;
+    font-style: normal;
+    font-family: sans-serif;
+    text-align: left;
+    color: azure;
+    padding: 10px;
+}
+.button{
+    background-color:burlywood; /* Green background */
+    border: 2px;
+    color: white; /* White text */
+    padding: 15px 32px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px; 
+    align-content: right;
+
+}
+ 

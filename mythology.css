@@ -1,0 +1,46 @@
+*{
+background-color:bisque;
+}
+.button{
+    background-color:orangered; /* Green background */
+    border: 2px;
+    color: white; /* White text */
+    padding: 15px 32px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px; 
+    align-content: right;
+
+}
+h1{
+    color:rgb(174, 9, 143);
+    text-align: center;
+    text-decoration:dotted underline;
+    text-decoration-color: rgb(76, 0, 255);
+}
+.my{
+    display: block;
+    margin: auto;
+}
+.my1{
+    font-size: 20px;
+    font-style: normal;
+    padding: 5px;
+}
+.my2{
+    float: right;
+    padding: 5px;
+}
+.my3{
+    font-size: 20px;
+    font-style: normal;
+    padding: 5px;
+}
+.my4{
+    float: left;
+    padding: 5px;
+}

@@ -1,0 +1,22 @@
+h2{
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(9, 114, 201);
+    text-align: center;
+}
+h1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    background-color: rgb(187, 147, 74);
+
+}
+.one{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Ram{
+    display: block;
+    margin: auto;
+}

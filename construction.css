@@ -1,0 +1,45 @@
+*{
+    background-color:bisque;
+    }
+    .button{
+        background-color: #d47a1f; /* Green background */
+        border: 2px;
+        color: white; /* White text */
+        padding: 15px 32px;
+        text-align: right;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 8px; 
+        align-content: right;
+
+    }
+    h1{
+        color: rgb(208, 24, 79);
+        text-align: center;
+        font-size: 2.5rem;
+        text-decoration: dotted underline;
+        text-decoration-color: black;
+    }
+    .a1{
+        float: left;
+        padding: 10px;
+
+    }
+    .a2{
+    
+        font-size: large;
+        font-family: sans-serif;
+        padding: 10px;
+    }
+    .a3{
+        font-size:large;
+        font-family: sans-serif;
+        padding: 10px;
+    }
+    .a4{
+        float: right;
+        padding: 10px;
+    }
